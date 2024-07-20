@@ -1,5 +1,6 @@
 # Priority Queue
 # https://en.wikipedia.org/wiki/Priority_queue
+# https://docs.python.org/3/library/heapq.html
 # Input: intervals = [[0, 30], [5, 10], [15, 20]]
 # Output: 2
 
